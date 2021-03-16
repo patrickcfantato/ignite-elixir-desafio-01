@@ -1,6 +1,6 @@
 # IgniteDesafio01
 
-**TODO: Add description**
+Repositório contendo a solução para o desafio 01 da trilha Elixir da Rocketseat
 
 ## Installation
 
